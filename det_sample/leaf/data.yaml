@@ -1,0 +1,5 @@
+names:
+- leaf
+nc: 1
+train: ./det_sample/leaf/train
+val: ./det_sample/leaf/valid
