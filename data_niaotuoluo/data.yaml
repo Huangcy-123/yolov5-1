@@ -1,0 +1,5 @@
+names:
+- cell
+nc: 1
+train: ./data_niaotuoluo/train
+val: ./data_niaotuoluo/valid
